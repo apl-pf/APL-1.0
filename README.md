@@ -1,5 +1,5 @@
 # APL-1.0
-Prompt Framework made to optimise conversation with LLM's.
+A Prompt Framework made to optimise conversation with LLM's, created by triple#5863
 
 Check out the WIKI for a how-to: https://github.com/apl-pf/APL-1.0/wiki
 
