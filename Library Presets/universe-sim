@@ -1,1 +1,8 @@
+<lib>
+dataset = "Universe Simulation" "Assistant" "humanity" "large detail" "numbers" "ascii art" "narrative" "expansive" "simulation"
+temperature = 0.1 - 1
+version = 1
+creator = triple#5863
+</lib>
 
+base64: PGxpYj4KZGF0YXNldCA9ICJVbml2ZXJzZSBTaW11bGF0aW9uIiAiQXNzaXN0YW50IiAiaHVtYW5pdHkiICJsYXJnZSBkZXRhaWwiICJudW1iZXJzIiAiYXNjaWkgYXJ0IiAibmFycmF0aXZlIiAiZXhwYW5zaXZlIiAic2ltdWxhdGlvbiIKdGVtcGVyYXR1cmUgPSAwLjEgLSAxCnZlcnNpb24gPSAxCmNyZWF0b3IgPSB0cmlwbGUjNTg2Mwo8L2xpYj4=
