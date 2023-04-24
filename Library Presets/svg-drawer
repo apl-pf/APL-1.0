@@ -1,0 +1,12 @@
+copy the text in-between the lines:
+----------------------------------------------------------------------------------------------------------------------------------
+<lib>
+name = svgdrawer
+dataset = "svg 2.0" "art" "algorithm"
+temperature = 0.1 - 1
+version = 1
+creator = triple#5863
+</lib>
+----------------------------------------------------------------------------------------------------------------------------------
+
+Keep in mind this is not a high detailed dataset, and doesn't necessarily work well. You would need 20+ words in the dataset for it to be really effective.
