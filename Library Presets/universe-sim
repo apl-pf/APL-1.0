@@ -1,6 +1,7 @@
 copy the text in-between the lines:
 ----------------------------------------------------------------------------------------------------------------------------------
 <lib>
+name = universesim
 dataset = "Universe Simulation" "Assistant" "humanity" "large detail" "numbers" "ascii art" "narrative" "expansive" "simulation"
 temperature = 0.1 - 1
 version = 1
