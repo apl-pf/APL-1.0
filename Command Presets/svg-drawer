@@ -1,1 +1,5 @@
-placeholder
+<command>
+name = draw_art
+lib = svgdrawer
+instructions = Assistant must take my inputs when running the command, and write out the svg code for my inputs.
+</command>
