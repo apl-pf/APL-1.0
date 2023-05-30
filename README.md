@@ -9,3 +9,5 @@ Command Presets go with Library Presets, use the ones named the same thing.
 Discord Server: https://discord.gg/xnr3EBTUPR
 
 last updated: 25/04/23
+
+Disclaimer: This has nothing to do with APL the programming language, this is a seperate language used for LLM's.
